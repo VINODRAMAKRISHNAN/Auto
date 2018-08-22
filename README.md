@@ -1,2 +1,2 @@
 # Auto
-test 510
+test 500
