@@ -23,7 +23,7 @@ public class RemoteWebDriverManager {
 	public static final String DRIVERPATH_FIREFOX_PROPERTY_KEY="webdriver.gecko.driver";
 	public static final String DRIVERPATH_CHROME_PROPERTY_KEY="webdriver.chrome.driver";	
 	
-	
+	//
 	//firefox linux64 geckodriver:v0.20.0 download location: https://github.com/mozilla/geckodriver/releases/download/v0.20.0/geckodriver-v0.20.0-linux64.tar.gz
 	//chrome linux64 chrome driver:2.35 download location  http://chromedriver.storage.googleapis.com/2.35/chromedriver_linux64.zip
 	
